@@ -7,4 +7,4 @@ you can entertain yourself with a virtual one. <br>
 
 <br><br>
 NAIVE ALGORITHM<br>
-Use `java -cp . Main` to run the main file <br>
+Use `java -cp . Main` to run the main class <br>
