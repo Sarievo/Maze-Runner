@@ -11,5 +11,4 @@ Generate a maze<br>
 Generate an escape<br>
 ![Screenshot](/Screenshot2.png)
 
-NAIVE ALGORITHM<br>
 Use `java -cp . Main` to run the main class <br>
